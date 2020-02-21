@@ -211,6 +211,10 @@ footer{
   .nav-item::before{
     top:55px;
   }
+  .courses_html{
+    display: block;
+    margin-top: -3px;
+  }
 }
 
 @media(max-width: 985px){
@@ -219,6 +223,10 @@ footer{
       position: absolute;
   top: -3px;
   height: 61px;
+    }
+    .courses_html{
+      display: block;
+      margin-top: -3px;
     }
     .carousel-inner{
       display:block;
@@ -254,6 +262,10 @@ footer{
       width:45%;
       padding-top: 17px;
     }
+    .courses_html{
+      display: block;
+      margin-top: -3px!important;
+    }
     .swiper-container {
       width: 100%;
       padding-top: 50px;
@@ -272,6 +284,10 @@ footer{
     }
     .carouselExampleIndicators{
       height: 802px;
+    }
+    .courses_html{
+      display: block;
+      margin-top: -3px!important;
     }
     .carousel-inner{
       display:block;
